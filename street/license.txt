@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dark street scene
+* source:	https://sketchfab.com/3d-models/dark-street-scene-567c4ee4b2bf49c99eb3d9e3b723f7a2
+* author:	Víctor Hernández (https://sketchfab.com/victorhugohc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dark street scene" (https://sketchfab.com/3d-models/dark-street-scene-567c4ee4b2bf49c99eb3d9e3b723f7a2) by Víctor Hernández (https://sketchfab.com/victorhugohc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
